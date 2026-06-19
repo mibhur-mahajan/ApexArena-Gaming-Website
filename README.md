@@ -1,2 +1,2 @@
 # ApexArena-Gaming-Website
-An online gaming website using html and css.
+ApexArena is a gaming website landing page built to showcase modern frontend development techniques. The project focuses on creating a "dark mode" aesthetic with a futuristic UI, prioritizing clean code and modular CSS architecture.
